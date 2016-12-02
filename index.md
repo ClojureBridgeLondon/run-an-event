@@ -106,7 +106,7 @@ Other Women focused communities
 * [Women of Silicon Roundabout](http://www.women-in-technology.com/)
 * [Mums in Technology (startups)](http://mumsintechnology.co.uk/) & [twitter](https://twitter.com/MumsinTech)
 * [Tech Mums](http://techmums.co/)
-* [Circle Co](https://twitter.com/circleco)
+* [Circle Co](https://twitter.com/circleco_)
 
 Other (non women-focused) channels
 * [London Universities](http://www.london.ac.uk/colleges_institutes.html) (bear in mind ClojureBridge attendees must be 18+)
