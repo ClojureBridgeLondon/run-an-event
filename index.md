@@ -1,16 +1,20 @@
 # How to run a ClojureBridge London Event
 
-An overview of the steps required to run a ClojureBridge London Event, helping you naviagate all the currently available content.  Further advice is available in the [clojurebridge/organizing](https://github.com/ClojureBridge/organizing) repository.
+ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
 
-# Organising team
+Early workshops focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
 
-There should be 2-4 people involved in organising a ClojureBridge London event, to help spread the work around.  Clojurebridge.org recommends you join their [organising mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops)
+ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). All around the world there have been workshops organised by people like you.
+
+Here is an overview of the steps required to run a ClojureBridge London Event, helping you navigate all the currently available content.  Further advice is available in the [clojurebridge/organizing](https://github.com/ClojureBridge/organizing) repository, or email the London ClojureBridge team at "clojurebridge dot london at gmail dot com".
 
 # Roles to assign
 
-You will need someone to take responsibility for the following roles.  A person can take on more than one role, however each role does require an amount of work.
+There should be 2-4 people involved in organising a ClojureBridge London event, to help spread the work around.  ClojureBridge.org recommends you join their [organising mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops).
 
-* Organiser - runs the overal event and makes sure everything happens.  They are also the public face of the event, so this person should preferably represent the community you are trying to reach.
+At every ClojureBridge workshop someone needs to take responsibility for each of the following roles.  A person can take on more than one role, however each role does require an amount of work.
+
+* Organiser - runs the overall event and makes sure everything happens.  They are also the public face of the event, so this person should preferably represent the community you are trying to reach. Organisers should take a look at the [organising timeline](https://github.com/ClojureBridge/organizing/blob/master/Workshop-Planning-Timeline.md)
 * Host - ensures access to the venue and provides all the services
 * Sponsor - provides some or all of the financial support
 * Teacher Trainer - teaches the teachers & assistants about the event and manages consensus of how the event will work on the day.
@@ -34,19 +38,15 @@ A suitable venue should include:
 
 # Budget
 
-Establish the budget for the event (contact previous organisers for sample budgets)
+Typically, a ClojureBridge event can be catered for up to 50 people for £1,000, or conservatively with a budget of £750, broken down as follows:
 
-# Catering
+* Friday & Saturday snacks & drinks such as crisps, fruit, small amounts of beer, wine: £130
+* Friday install party dinner such as pizza, mini burritos etc.: £200-250
+* Saturday breakfast such as bagels, porridge, fruit etc. & coffee: £150
+* Saturday lunch such as bento boxes, hummus bowls, salads etc.: £275
+* Saturday afternoon ClojureBridge branded cookies or cupcakes such as [crumbs and doilies](http://www.crumbsanddoilies.co.uk/): £75-100
 
-Food and drink is typically provided for the following parts of ClojureBridge London
-
-* Teacher Training session (pizza, mini-burritos, etc)
-* Friday night Instal Party (curry, chinese, etc - something nicer than pizza)
-* Saturday Breakfast 
-* Saturday Lunch
-* Saturday Afternoon - clojurebridge cookies or cupcakes (http://www.crumbsanddoilies.co.uk/) 
-
-Provide mainly (or exclusively) soft drinks for these events.  Suggest small amounts of alchol for the teacher training (beer & wine) and Friday install party (wine and some beer).
+This doesn't include venue or additional costs, so adjust your budget accordingly and contact previous organisers for more info.
 
 # Sponsorship
 
@@ -54,36 +54,28 @@ Sponsors for the event can provide additional funds to cover the budget or provi
 
 Previous sponsors include:
 * uSwitch 
-* Thoughtworks
+* ThoughtWorks
 * Style.com
 * GDS
 
+ > ClojureBridge Berlin are a permanent sponsor for the event, thanks to their huge contribution to the content and website design.
+ 
 Contact previous ClojureBridge London organisers via email for sponsor contacts.
 
 # Managing the event
 
-Managing the event is made much easier by using a few simple tools.  
+Managing the event is made much easier by using a few simple tools. The current recommendations for managing the event is to do the following:
 
-We currently recommend using Meetup.com as this is where the majority of people find our community.  
+* Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/) by editing the [index.html](https://github.com/ClojureBridgeLondon/clojurebridgelondon.github.io/blob/master/index.html) file and updating event specific details (date, location, organisers, sponsors, etc.)
+* Create a ClojureBridge London issue in the ClojureBridge repo - [example issues on clojurebridge/Workshops repository](https://github.com/ClojureBridge/Workshops/issues) 
+* Create a new student event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/233369825/)
+* Create (or reopen) a [student experience form (Google Form)](https://bit.ly/clojurebridgelondon-signup)
+* Create a new volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
+* Create (or reopen) a [volunteer experience form (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF_26z0lh-yHJDSc8tjFd_CoVpTdvb-4MMg7n44EIC4dQ/viewform)
 
-We encorage voluteers & students to share their programming & clojure experience levels with us via the google forms, to make it easier to group teachers with students.  The student experience google form has a question to confirm gender identification, our main way to ensure we are creating a suitable working space for students.
+Contact "clojurebridge dot london at gmail dot com" for access to these accounts.
 
-## Registration tools & experience capturing forms
-
-The current recommendations for mananging the event is to create the following:
-
-* Create ClojureBridge London event - [example issue on clojurebridge/Workshops repository](https://github.com/ClojureBridge/Workshops/issues/38) 
-* Student event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/233369825/)
-* [Student experience form (Google Form)](https://bit.ly/clojurebridgelondon-signup)
-* Volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
-* [Volunteer experience form (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF_26z0lh-yHJDSc8tjFd_CoVpTdvb-4MMg7n44EIC4dQ/viewform)
-
-## ClojureBridge London Website
-
-Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/) by editing the [index.html](https://github.com/ClojureBridgeLondon/clojurebridgelondon.github.io/blob/master/index.html) file and updating event specific details (date, location, organisers, sponsors, etc.)
-
-> ClojureBridge Berlin are a permenant sponsor for the event, thanks to there huge contribution to the content and website design.
-
+We encourage volunteers & students to share their programming & clojure experience levels with us via the google forms, to make it easier to group teachers with students.  The student experience google form has a question to confirm gender identification, our main way to ensure we are creating a suitable working space for students.
 
 ## Chat, Email and Twitter
 
@@ -91,7 +83,7 @@ Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/
 
 The organising team should have access to the ClojureBridge London email and [twitter](https://twitter.com/ClojureBridgeLN) accounts, email "clojurebridge dot london at gmail dot com" for access.  Please send all email communications from this account (or cc the email address) so we can track communications (avoid duplication, better manage any issues).
 
-> An existing organiser can give you deligated access to the gmail account and shared access to the twitter acount via tweetdeck.
+> An existing organiser can give you delegated access to the Gmail and Mailchimp accounts, as well as shared access to the Twitter account via TweetDeck.
 
 # Promoting the event
 
@@ -112,14 +104,20 @@ Other Women focused communities
 * [Tech UK Women](http://www.techuk.org/focus/programmes/women-in-tech)
 * [Tech London Advocates](http://www.techlondonadvocates.org.uk/working-groups/working-groups-women-in-london-tech/)
 * [Women of Silicon Roundabout](http://www.women-in-technology.com/)
-* [Mums in Technology (startups)](http://mumsintechnology.co.uk/) & [twitter](https://twitter.com/MumsinTech}
+* [Mums in Technology (startups)](http://mumsintechnology.co.uk/) & [twitter](https://twitter.com/MumsinTech)
 * [Tech Mums](http://techmums.co/)
-* [Circle Co](https://twitter.com/circleco_)
+* [Circle Co](https://twitter.com/circleco)
+
+Other (non women-focused) channels
+* [London Universities](http://www.london.ac.uk/colleges_institutes.html) (bear in mind ClojureBridge attendees must be 18+)
+* [UoL Student Union](https://www.studentcentral.london/)
+* [London Functional Programmers](https://www.meetup.com/London-Functionals/)
 
 Internal channels:
-* ClojureBridge London Website
-* London Clojurians mailing list
-* Clojurians Slack channels - #clojure-uk, #events
+* ClojureBridge [Twitter](https://twitter.com/ClojureBridgeLN) account
+* [ClojureBridge London website](https://clojurebridgelondon.github.io/)
+* [London Clojurians mailing list](https://groups.google.com/forum/#!forum/london-clojurians)
+* [Clojurians Slack channels](https://clojurians.slack.com) such as #clojure-uk, #events, #clojureladies, #clojurebridge and #ldnclj
 
 
 # Teacher Training
@@ -133,11 +131,31 @@ Additional resources include the [ClojureBridge Teaching Guide](https://github.c
 
 # ClojureBridge Event
 
-The event is comprised of an Install party on the Friday evening and the Workshop all day Saturday (see the example meetup.com events for suggested timings)
+The event is comprised of an Install party on the Friday evening and the Workshop all day Saturday. Suggested timings:
+
+Friday Evening: Intro & Install
+* 18.30 - Doors open & social
+* 19.00 - Introductions & demo
+* 19.20 - Setup & Test your laptops
+* 20.30 - Finish
+
+Saturday: Workshop
+* 10.30 - Doors open, breakfast
+* 11.00 - Workshop starts
+* 12.00 - Group show & tell
+* 13.00 - Lunch
+* 14.00 - Continue workshop
+* 15.00 - Group show & tell
+* 16.00 - Group show & tell
+* 17.00 - Retrospective - your feedback
+* 17.30 - Social & Drinks
 
 # Post Event
 
-* [ClojureBridge Alumni mailing list](https://groups.google.com/forum/#!forum/clojurebridge-london-alumni)
-* PurelyFunctional.tv - free access for 1 month
-* Lambda Island - 1 years free subscription
+A note should be sent round to attendees after the workshop to point them to further Clojure resources and events.
 
+* [ClojureBridge Alumni mailing list](https://groups.google.com/forum/#!forum/clojurebridge-london-alumni)
+* [PurelyFunctional.tv](https://purelyfunctional.tv/) - free access for 1 month
+* [Lambda Island](https://lambdaisland.com/) - 1 years free subscription
+* [London Clojurians events](https://www.meetup.com/London-Clojurians/)
+* More resources listed on the [ClojureBridge website](https://clojurebridgelondon.github.io/#post-event)
